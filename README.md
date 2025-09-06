@@ -84,7 +84,7 @@ print(f'\nPredicted marks for you with {hours} hours of study = {prediction[0]:.
 ```
 
 
-Output
+Output:
 
 <img width="546" height="605" alt="image" src="https://github.com/user-attachments/assets/08dd236c-fa21-4949-896d-c921676f3e93" />
 
