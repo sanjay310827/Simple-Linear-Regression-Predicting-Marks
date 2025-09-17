@@ -29,6 +29,9 @@ b. Use the trained model to predict marks for the given input.
 Program
 
 ```
+Program to implement the linear regression using gradient descent.
+Developed by: A SANJAY
+RegisterNumber: 25016505
 #step 1: Import libraries and load the dataset (Hours vs Marks)
 import pandas as pd 
 import numpy as np
